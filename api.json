@@ -1,0 +1,143 @@
+
+{
+  "certificados": [
+    {
+      "curso": "Análise de Dados em Linguagem R",
+      "instituição": "ENAP",
+      "materia": "Análise de Dados",
+      "certificado": "src/assets/certificados/Análise de Dados em Linguagem R.png"
+    },
+    {
+    "curso": "Consumindo APIs no React no projeto full stack",
+    "instituição": "Alura",
+    "materia": "React e Node.JS",
+    "certificado": "src/assets/certificados/Consumindo APIs no React no projeto full stack.png"
+    },
+    {
+    "curso": "Criando uma API com Express",
+    "instituição": "Alura",
+    "materia": "Node.JS",
+    "certificado": "src/assets/certificados/Criando uma API com Express  - Nodejs.png"
+    },
+    {
+    "curso": "Crie um site simples usando HTML, CSS e JavaScript",
+    "instituição": "Escola do Trabalhador - Microsoft",
+    "materia": "HTML, CSS e JavaScript",
+    "certificado": "src/assets/certificados/Crie um site simples usando HTML, CSS e JavaScript.png"
+    },
+    {
+    "curso": "Curso de Desenvolvedor Back-End",
+    "instituição": "Unipê",
+    "materia": "Django",
+    "certificado": "src/assets/certificados/Curso de Desenvolvedor Back-End.png"
+    },
+    {
+    "curso": "Curso de Java - Criação de uma aplicação Java com Spring Boot",
+    "instituição": "Escola do Trabalhador - Microsoft",
+    "materia": "Java",
+    "certificado": "src/assets/certificados/Curso de Java - Criação de uma aplicação Java com Spring Boot.png"
+    },
+    {
+    "curso": "Curso Lógica de Programação com JavaScript",
+    "instituição": "Unipê",
+    "materia": "JavaScript",
+    "certificado": "src/assets/certificados/Curso Lógica de Programação com JavaScript.png"
+    },
+    {
+    "curso": "Curso Programação em Python",
+    "instituição": "Unipê",
+    "materia": "Python",
+    "certificado": "src/assets/certificados/Curso Programação em Python.png"
+    },
+    {
+    "curso": "Curso Programação em Python",
+    "instituição": "Rocketseat",
+    "materia": "HTML, CSS e JavaScript",
+    "certificado": "src/assets/certificados/Discover.png"
+    },
+    {
+    "curso": "Fábrica de Software",
+    "instituição": "Unipê",
+    "materia": "",
+    "certificado": "src/assets/certificados/Fábrica de Software.png"
+    },
+    {
+    "curso": "Versionamento de Código Git e GitHub",
+    "instituição": "DIO",
+    "materia": "Git e GitHub",
+    "certificado": "src/assets/certificados/Git e GitHub - DIO.png"
+    },
+    {
+    "curso": "IA na Prática",
+    "instituição": "Trybe",
+    "materia": "Inteligência Artificial",
+    "certificado": "src/assets/certificados/iaNaPratica.png"
+    },
+    {
+    "curso": "Imersão IA",
+    "instituição": "Alura",
+    "materia": "Inteligência Artificial",
+    "certificado": "src/assets/certificados/ImersãoIA.png"
+    },
+    {
+    "curso": "Intensivão de JavaScript",
+    "instituição": "Hashtag",
+    "materia": "HTML, CSS e JavaScript",
+    "certificado": "src/assets/certificados/INTENSIVÃO DE JAVASCRIPT.png"
+    },
+    {
+    "curso": "Introdução à análise de dados da Microsoft",
+    "instituição": "Escola do Trabalhador - Microsoft",
+    "materia": "Análise de Dados",
+    "certificado": "src/assets/certificados/Introdução à análise de dados da Microsoft.png"
+    },
+    {
+    "curso": "Javascript do Zero",
+    "instituição": "Trybe",
+    "materia": "HTML, CSS e JavaScript",
+    "certificado": "src/assets/certificados/Javascript do Zero.png"
+    },
+    {
+    "curso": "Jornada Python",
+    "instituição": "Hashtag",
+    "materia": "Python",
+    "certificado": "src/assets/certificados/Jornada Python .png"
+    },
+    {
+    "curso": "Learning with python",
+    "instituição": "ENAP",
+    "materia": "Python",
+    "certificado": "src/assets/certificados/Learning with python.png"
+    },
+    {
+    "curso": "Trabalhando em Equipes Ágeis",
+    "instituição": "DIO",
+    "materia": "Metodologias Ágeis",
+    "certificado": "src/assets/certificados/Metodologias Ágeis.png"
+    },
+    {
+    "curso": "NLW IA",
+    "instituição": "Rocketseat",
+    "materia": "Inteligência Artificial",
+    "certificado": "src/assets/certificados/NLW IA.png"
+    },
+    {
+    "curso": "Projeto FullStack",
+    "instituição": "Alura",
+    "materia": "React e Node.JS",
+    "certificado": "src/assets/certificados/Projeto FullStack - Alura.png"
+    },
+    {
+    "curso": "Projeto FullStack",
+    "instituição": "Alura",
+    "materia": "React",
+    "certificado": "src/assets/certificados/Projeto FullStack - React.png"
+    },
+    {
+    "curso": "Python Começando com a linguagem",
+    "instituição": "Alura",
+    "materia": "Python",
+    "certificado": "src/assets/certificados/Python Começando com a linguagem.png"
+    }
+  ]
+}
